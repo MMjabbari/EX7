@@ -1,0 +1,111 @@
+@font-face{
+    font-family: iransans;
+    src: url(Sans\ a4fran3.ttf);
+}
+
+header {
+    background: #30129b;
+    padding:2px ;
+   background-image: url(f762a6612f2a33ddd9e0c6df8f91a449.jpg);
+  }
+  h1 {
+    font-family: iransans;
+    color: #dd28a7;
+    text-align: center;
+    display: block;
+   margin: top 4px;
+    margin: bottom 4px;;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: bold;
+    font-size: 2em;
+  }
+  
+  header a{
+    display: inline-block;
+    background:#dbb4d4;
+    text-decoration: none;
+    font-size: 170%;
+    border-radius: 12%;
+    border: solid rgb(206, 53, 160);
+    text-align: center;
+    margin: 14px;
+    padding:2px;
+    width: 290px;
+    height:50px;
+  }
+  
+  body {
+    margin: 2px;
+    padding: 2px;
+  }
+  
+  
+  h2 {
+    color: #05285c;
+    font-size: 1.5em;
+    text-align: right;
+    font-weight: bolder;
+    font-style: normal;
+    font-family:iransans ;
+  }
+  
+  
+  
+  .left{
+     float: left;
+      display: block;
+      width:25%;
+      background:#4779d6;
+      
+   }
+  
+   .left img {
+     display: block;
+     border: 2px solid;
+     width: 80%;
+    margin:10%;
+     
+  }
+  
+  a {
+    font-family:  ' Arial' ;
+   background: #e4b2b2;
+    color: #720958;
+    text-align: center;
+    }
+  
+  .right {
+   
+    display: inline-block;
+    width: 72%;
+    margin-left: 10px;
+    text-align: right;
+  }
+  
+  p{
+  font-family: Arial ;
+      font-style: normal;
+      font-size: larger;
+      text-align: right;
+      padding-right: 30px;
+      padding-left: 30px;
+  }
+  
+  .active {
+      background-color: #FFFFFF;
+      color: #000000;
+  }
+  nav a:hover{
+    background: #383538b3;
+    color: #b1a82e;
+    border-radius: 0;
+    }
+  
+  
+  body {
+    margin: 2px;
+    padding: 2px;
+  }
+  
+  
